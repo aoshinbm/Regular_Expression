@@ -9,7 +9,7 @@ public class Password1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("User Registration ");
-        String passwordPattern = "^[A-Za-z0-9]{8,20}$";
+        String passwordPattern = "^[A-Za-z0-9]{8,}$";
         System.out.println("Enter password:");
         String password = sc.next();
         System.out.println("Password :"+password);

@@ -16,17 +16,3 @@ public class LastName {
 
     }
 }
-/*          String firstNamePattern = "^[A-Z]{1}[a-z]{2,}$";
-
-            String input = "Rajkumar";
-
-            String mobileNumPattern = "^[6-9]{1}[0-9]{9}$";
-
-            String mobileNum = "9164480832";
-
-        }
-
-    }
-
-
- */
